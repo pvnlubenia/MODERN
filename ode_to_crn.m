@@ -45,12 +45,12 @@
 %                        direction (listed  in the same order of the fluxes)  %
 %        Note: It is assumed that the ODE system is a MASS ACTION SYSTEM.     %
 %                                                                             %
-% Reference: Chellaboina, V., Bhat, S.P., Haddad, W.M., and Bernstein, D.S.   %
-%    (2009). Modeling and analysis of mass-action kinetics. IEEE Control      %
-%    Systems, 29(4) 60-78. doi:10.1109/MCS.2009.932926.                       %
+% Reference: Chellaboina V, Bhat S, Haddad W, Bernstein D (2009) Modeling and %
+%    analysis of mass-action kinetics. IEEE Control Syst 29(4):60-78.         %
+%    https://doi.org/10.1109/MCS.2009.932926                                  %
 %                                                                             %
 % Created: 9 June 2022                                                        %
-% Last Modified: 9 June 2022                                                  %
+% Last Modified: 19 June 2022                                                 %
 %                                                                             %
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
 

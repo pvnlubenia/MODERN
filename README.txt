@@ -52,7 +52,7 @@ Contact Information
 For questions, comments, and suggestions, feel free to contact me at pvnlubenia@yahoo.co.uk.
 
 
-- Patrick Lubenia (9 June 2022)
+- Patrick Lubenia (19 June 2022)
 
 
 
@@ -60,4 +60,4 @@ For questions, comments, and suggestions, feel free to contact me at pvnlubenia@
 Reference
 =========
 
-   [1] Chellaboina, V., Bhat, S.P., Haddad, W.M., and Bernstein, D.S. (2009). Modeling and analysis of mass-action kinetics. IEEE Control Systems, 29(4) 60-78. doi:10.1109/MCS.2009.932926
+   [1] Chellaboina V, Bhat S, Haddad W, Bernstein D (2009) Modeling and analysis of mass-action kinetics. IEEE Control Syst 29(4):60-78. https://doi.org/10.1109/MCS.2009.932926
