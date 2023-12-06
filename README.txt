@@ -5,7 +5,8 @@
 ==========================================================================================
 
 Matlab was used to develop the function used here.
-The function ode_to_crn returns the chemical reaction network corresponding to a system of ordinary differential equations (ODEs) with mass action kinetics. If the system does not satisfy the Hars-Toth criterion, a message appears stating what needs to be added in a flux. Furthermore, the output variable 'ode' allows the user to view the complete system of ODEs with all the species and fluxes listed in the 'species' and 'flux' fields, respectively.
+
+The function odetoCRN returns the chemical reaction network corresponding to a system of ordinary differential equations (ODEs) with mass action kinetics. If the system does not satisfy the Hars-Toth criterion, a message appears stating what needs to be added in a flux. Furthermore, the output variable 'ode' allows the user to view the complete system of ODEs with all the species and fluxes listed in the 'species' and 'flux' fields, respectively.
 
 
 
@@ -13,7 +14,7 @@ Matlab was used to develop the function used here.
 How to fill out 'ode' structure
 =================================
 
-'ode' is the input for the function ode_to_crn. It is a structure, representing the system of ODEs, with the following fields:
+'ode' is the input for the function odetoCRN. It is a structure, representing the system of ODEs, with the following fields:
 
    - id: name of the model
    - species: a list of all species in the system; this is left blank since incorporated into the function is a step which compiles all species used in the ODEs
